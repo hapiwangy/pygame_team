@@ -1,4 +1,6 @@
 import pygame
+import os
+print(os.getcwd())
 pygame.init()
 size = (525, 450) # (wid, hei)
 W = (255, 255, 255)
